@@ -1,0 +1,15 @@
+{
+  "name": "mppclone-custom-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:the-dev-channel/mppclone-custom-chat.git",
+  "author": "hri7566 <hri7566@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "esbuild": "^0.17.5",
+    "typescript": "^4.9.5"
+  }
+}
